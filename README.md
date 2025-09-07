@@ -1,4 +1,7 @@
-//This is the read me that will be submitted to webcourses
+Henry Abshire
+UCFID: 5427640
+Date: 09/07/2025
+Class: EEL4775
 
 # Questions And Answers 
 
@@ -49,4 +52,5 @@ put enough stuff in the long print function that takes longer than 250ms to comp
 ### If no, what did you try?
 ## Q7. Do you agree or disagree: By using multitasking, we were able to achieve timing determinism for the LED blink. Why or why not?
 For the LED blink, yes. The program is simple enough that provided nothing catastrophic like a cosmic bit flit due a solar flare, the behavior of the system is very consistent and resilient. Thus, I would say it meets the criterion for deterministic. 
+
 
